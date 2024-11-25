@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Third year Informatics engineering <br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭My Name is Danar <br> 🔭 Third year Informatics engineering at University Indraprasta
 
 
 ## 🌐 Socials:
