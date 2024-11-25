@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/danarmukti/) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/danarmukti/) 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/danarmuktiw) 
 
 # 💻 Tech Stack:
