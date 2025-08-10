@@ -7,7 +7,7 @@
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/danarmuktiw) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,vscode,php,java,jquery,mysql,wordpress,ai,ps,figma)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,git,vscode,php,java,jquery,mysql,wordpress,ai,ps,figma)](https://skillicons.dev) 
 
 
 # 📊 GitHub Stats:
